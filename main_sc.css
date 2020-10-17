@@ -1,0 +1,122 @@
+body{
+    background-color: #E3E6DB;
+}
+h1{
+    font-family:'Montserrat', sans-serif;
+    color: #585D60;
+    font-size: 50px;
+    font-weight: 700;
+    margin-left: 175px;
+}
+nav{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    margin-left: 175px;
+}
+.navbox{
+    background-color: #F19C01;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px;
+    position: relative;
+    z-index: 1;
+}
+#home{
+    background-color: #ffffff;
+    color: #F19C01;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-left: 175px;
+    margin-right: 175px;
+    position: relative;
+    top: 15px;
+}
+.left-column{
+    background-color: #FDF1DF;
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 200;
+    width: 750px;
+}
+.mid-column{
+    background-color: #ffffff;
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 200;
+    width: 1500px;
+}
+.right-column{
+    background-color: #FDF1DF;
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 200;
+    width: 750px;
+}
+#fly{
+    font-size: 10px;
+    text-align: center;
+}
+.title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    margin-top: -7px;
+}
+.side-title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: #F19C01;
+    border-bottom: solid 2px #E3E6DB;
+    padding-bottom: 20px;
+}
+.side-link{
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #F19C01;
+    text-decoration: none;
+}
+.pic{
+    width: 225px;
+    height: 225px;
+    padding: 10px;
+    background-color: #ffffff;
+}
+.picalign{
+    display: flex;
+    justify-content: center;
+}
+.lc-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 25px;
+    /* margin: 25px; */
+}
+.mc-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 25px;
+}
+.rc-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 25px;
+}
+.bestseller{
+    text-align: center;
+}
+.source{
+    text-align: right;
+}
+
+.book{
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 17px;
+}

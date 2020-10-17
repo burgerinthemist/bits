@@ -1,0 +1,64 @@
+.text{
+background-color: darkgrey;
+color: #ff3399;
+size: 25px;
+font-family: 'Montserrat', sans-serif;
+position: relative;
+
+}
+
+/* #poo{ */
+    /* float: right;
+    position: relative;
+    bottom: 1000px;
+    right: 500px;
+} */
+
+.text2{
+    background-color: darkgrey;
+color: #ff3399;
+size: 25px;
+font-family: 'Montserrat', sans-serif;
+float: right;
+margin-left: 15px;
+}
+#poop{
+font-size: 50px;
+z-index: 1;
+}
+
+p{
+    color: darkolivegreen;
+    background-color: darkorange;
+}
+
+div{
+    background-color: darkred;
+}
+
+body{
+    background-color: darksalmon;
+}
+
+.link{
+    color: ghostwhite;
+    text-decoration:underline aqua;
+}
+
+.div1{
+    width: 1000px;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+/* .div2{
+    display: flex;
+    flex-direction: column;
+} */
+
+a{
+    text-align: start;
+}
